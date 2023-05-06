@@ -1,7 +1,7 @@
 # Kodluyoruz-HiKod-Frontend-Bitirme-Projesi
-*Kodluyoruz (https://kodluyoruz.org/) tarafından düzenlenen ve 2 ay süren Frontend Web Geliştirme Atölyesi bitirme projem.
-*Tema olarak bilişim sektöründe kadın/cinsiyet eşitliği verildi.
-*Sıfırdan atölye sonuna kadar ilerletebildiğim frontend bilgilerimle HTML ve CSS kullanarak projemi tamamladım.
++Kodluyoruz (https://kodluyoruz.org/) tarafından düzenlenen ve 2 ay süren Frontend Web Geliştirme Atölyesi bitirme projem.
++Tema olarak bilişim sektöründe kadın/cinsiyet eşitliği verildi.
++Sıfırdan atölye sonuna kadar ilerletebildiğim frontend bilgilerimle HTML ve CSS kullanarak projemi tamamladım.
 
 EN
 #HiKod-Frontend-Completion-Project
